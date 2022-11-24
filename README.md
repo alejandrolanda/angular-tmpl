@@ -1,5 +1,5 @@
 # Objetivos del repositorio
-... escribir aquí
+.... escribir aquí
 
 ## Notas
-... escribir aquí
+.... escribir aquí
