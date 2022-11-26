@@ -1,4 +1,7 @@
-# Objetivos del repositorio
+# Objetivos Generales
+..... escribir aquí
+
+# Objetivos Específicos
 ..... escribir aquí
 
 ## Notas
@@ -7,5 +10,5 @@
 ### Agregado desde Github online
 ### Agregado desde git localhost
 
-####
+#### Integrantes:
 
