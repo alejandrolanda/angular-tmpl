@@ -12,9 +12,9 @@
 
 #### Integrantes:
 
-[]opt1
-[]opt2
-[]opt3
+[]opt1-1
+[x]opt2-1
+[]opt3-1
 
 #### Integrantes:
 Juan
