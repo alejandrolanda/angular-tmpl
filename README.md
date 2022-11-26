@@ -1,4 +1,7 @@
-# Objetivos del repositorio
+# Objetivos Generales
+..... escribir aquí
+
+# Objetivos Específicos
 ..... escribir aquí
 
 ## Notas
@@ -10,3 +13,6 @@
 []opt1
 []opt2
 []opt3
+
+#### Integrantes:
+
