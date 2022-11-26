@@ -16,12 +16,9 @@
 []opt2
 []opt3
 
-<<<<<<< HEAD
 #### Integrantes:
 Juan
 Luis
 Ana
 
-=======
->>>>>>> refs/remotes/origin/main
 
