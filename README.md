@@ -7,3 +7,6 @@
 ### Agregado desde Github online
 ### Agregado desde git localhost
 
+[]opt1
+[]opt2
+[]opt3
