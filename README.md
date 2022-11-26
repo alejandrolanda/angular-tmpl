@@ -10,13 +10,18 @@
 ### Agregado desde Github online
 ### Agregado desde git localhost
 
+#### Integrantes:
+
 []opt1
 []opt2
 []opt3
 
+<<<<<<< HEAD
 #### Integrantes:
 Juan
 Luis
 Ana
 
+=======
+>>>>>>> refs/remotes/origin/main
 
