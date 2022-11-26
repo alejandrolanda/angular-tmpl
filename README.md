@@ -15,4 +15,8 @@
 []opt3
 
 #### Integrantes:
+Juan
+Luis
+Ana
+
 
