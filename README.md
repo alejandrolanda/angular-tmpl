@@ -17,12 +17,27 @@
 []opt3-1
 
 #### Integrantes:
-Juan
-Luis
+Juan, Luis
 
 #### Proveedores:
-Ana
-José
+Ana, José
 
+#### Recursos:
+
+https://angular.io
+
+https://ionicframework.com
+
+https://www.postman.com/ 
+
+https://firebase.google.com/?hl=es 
+
+https://www.npmjs.com/package/ng2-charts 
+
+https://animate.style 
+
+https://getbootstrap.com
+
+https://restcountries.com 
 
 
